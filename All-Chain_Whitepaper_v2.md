@@ -223,3 +223,6 @@ A user tired of managing four wallets consolidates their portfolio into All-Chai
 | **Total Portfolio** | — | **$\$6,810.00$** | — | **$5,788.50\text{ ALL}$** | **$29.84\text{ ALL}$** | **$5,758.66\text{ ALL}$** |
 
 * **Result:** Four separate blockchains are consolidated into one unified balance of **$5,758.66 ALL** in a single wallet, while the protocol earns 90 days of native staking and liquidity yield across all four underlying assets.
+
+* Copyright 2025 - 2026
+* M. Davison and Setec Labs
